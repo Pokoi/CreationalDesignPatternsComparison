@@ -1,0 +1,6 @@
+﻿  DesignPatterns.cpp
+C:\Users\jesus\OneDrive\Escritorio\DesignPatterns\code\headers\Utils.hpp(43,28): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jesus\OneDrive\Escritorio\DesignPatterns\code\headers\Utils.hpp(44,28): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jesus\OneDrive\Escritorio\DesignPatterns\code\headers\Utils.hpp(45,28): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jesus\OneDrive\Escritorio\DesignPatterns\code\sources\DesignPatterns.cpp(67,27): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+  DesignPatterns.vcxproj -> C:\Users\jesus\OneDrive\Escritorio\DesignPatterns\projects\vs-2019\x64\Debug\DesignPatterns.exe
